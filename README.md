@@ -29,15 +29,14 @@ python manage.py runserver
 3. Share articles via social media or copy article links to clipboard.
 
 ## Screenshots
-![Latest](/screenshots/latest.png)
-![Entertainment](/screenshots/entertainment.png)
-![Sports](/screenshots/sports.png)
-![Politics](/screenshots/politics.png)
-![Breaking News](/screenshots/breaking_news.png)
-![Opinion News](/screenshots/opinion_news.png)
+![Latest](screenshots/latest_light_mode.PNG)
+![Entertainment](screenshots/entertainment_light_mode.PNG)
+![Sports](screenshots/sports_light_mode.PNG)
+![Politics](screenshots/polititcs_light_mode.PNG)
+![Breaking News](screenshots/breaking_light_mode.PNG)
 
 ## Credits
-- Built by [Arjit Bhammu](https://github.com/arjit_0501)
+- Built by [Arjit Bhamu](https://github.com/arjit_0501)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
