@@ -37,7 +37,7 @@ python manage.py runserver
 ![Opinion News](/screenshots/opinion_news.png)
 
 ## Credits
-- Built by [Your Name](https://github.com/yourusername)
+- Built by [Arjit Bhammu](https://github.com/arjit_0501)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
